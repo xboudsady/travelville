@@ -17,3 +17,8 @@
     width: 100%;
     text-align: center;
 }
+
+/* Add margin to social media icon */
+.section-follow .fa-4x {
+    margin: 5px 10px;
+}
