@@ -1,0 +1,19 @@
+/* Add Padding to "Learn More button in slider heading */
+.slider .btn {
+    margin-top: 20px;
+}
+
+/* Add custom css to the search destination field */
+.section-search input {
+    padding: 5px !important;
+    font-size: 18px !important;
+    width: 90% !important;
+    border: #f4f4f4 3px solid !important;
+}
+
+/* FOr automplete form to prevent extend teal color border */
+.autocomplete-content {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
